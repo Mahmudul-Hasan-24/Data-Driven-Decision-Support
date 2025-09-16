@@ -94,7 +94,6 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 ---
 
 ## 👤 Author
-**Mahmudul Hasan**  
+**Mahmudul Hasan** **Benjamin** **Jürgen**
+ 
 Master’s of Computational Social System (Business Analytics) at Technical University of  Graz andd University of Graz
-**Benjamin**
-**Jürgen**
