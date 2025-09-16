@@ -1,4 +1,4 @@
-# 📊 Data-Driven Decision Support
+# 📊 "Business Decision Support Using Data-Driven Modeling in R"
 
 ## 📌 Project Overview
 This project applies **data-driven decision-making techniques** using R to support business decisions.  
@@ -44,11 +44,7 @@ The focus is on:
 - Clear segmentation of customer groups for decision-making
 - Recommended business actions based on decision rules
 
----
 
-## 🖼 Example Output
-Add screenshots of key dashboard slides here:
-![Dashboard Example](docs/dashboard_example.png)
 
 ---
 
@@ -99,5 +95,4 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 **Mahmudul Hasan**  
-Master’s in Business Analytics – TU Graz  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Mahmudul-Hasan-24)
+Master’s of Computational Social System (Business Analytics) at Technical University of  Graz andd University of Graz
